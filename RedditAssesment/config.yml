@@ -1,0 +1,7 @@
+#accessToken: <--Your Reddit Access Token-->
+
+#dataCount: 6 <-- Amount of results per section
+
+#subreddits: <-- subreddits to get data from, listed below
+#    - askreddit
+#    - boardgames

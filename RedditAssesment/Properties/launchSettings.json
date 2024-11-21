@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RedditAssesment": {
+      "commandName": "Project",
+      "commandLineArgs": "-c \"C:\\Users\\Cam\\Documents\\Programming\\.Net\\RedditAssesment\\RedditAssesment\\config.yml\""
+    }
+  }
+}
